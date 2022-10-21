@@ -1,5 +1,5 @@
 Name - Aishwarya gosavi
-# Prediction-using-Unsupervised-ML
-Task # Prediction-using-Unsupervised-ML  
-1- To find the optimum number of clusters for the "Iris" dataset.  
-2- To show the visual representation of requirement 1 along with visualizing the clusters.
+# Prediction-using-Supervised-ML
+Task # Prediction-using-Supervised-ML  
+1 Predict the percentage of an student based on the no. of study hours
+2 This is a simple linear regression task as it involves just 2 variables
